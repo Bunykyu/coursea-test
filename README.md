@@ -1,2 +1,2 @@
 # coursea-test
-Coursea test repositary
+Coursera test repository
